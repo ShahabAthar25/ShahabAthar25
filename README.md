@@ -1,9 +1,12 @@
 ### Hi, I'am Shahab Athar
 
 <br />
+
+I am a student in 8th class.I am a FullStack Developer, GUI Developer.I have worked in python as a GUI developer(tkinter, pyqt5) and a Data Analyist(open-cv),My skills in web development are in MERN(Mongodb, Express, React, Nodejs), sqlite3, flask and django and have a little bit experiance in C, C#.I am Learning Computer Vision, MatplotLib AND Shell by next year.
+
 <br />
 
-<p align="left"> </p>
+<p align="left"> </p> 
 
 <a href="https://twitter.com/Tbato_">
   <img align="left" alt="Shahab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +23,9 @@
 
 ### My Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabAthar25&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabAthar25&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
+### Most Used Language
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabAthar25&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
