@@ -9,7 +9,11 @@
 </head>
 
 <body>
-    <h1>Hi, I am SHahab Athar</h1>
+    <h1>Hi, I am Shahab Athar</h1>
+
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabAthar25&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)
 </body>
 
 </html>
