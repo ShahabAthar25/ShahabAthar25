@@ -1,19 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+### Hi, I'am Shahab Athar
 
-<head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link href="./styles.css" rel="stylesheet">
-</head>
+<br />
+<br />
 
-<body>
-    <h1>Hi, I am Shahab Athar</h1>
+<p align="left"> </p>
 
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabAthar25&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<a href="https://twitter.com/Tbato_">
+  <img align="left" alt="Shahab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/mahreen-athar-7666ma/">
+  <img align="left" alt="Shahab's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MahreenAthar">
+  <img align="left" alt="Shahab's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)
-</body>
+<br/>
+<br/>
 
-</html>
+### My Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabAthar25&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
