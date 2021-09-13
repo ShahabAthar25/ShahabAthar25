@@ -8,13 +8,13 @@ I am a student in 8th class.I am a FullStack Developer, GUI Developer.I have wor
 
 <p align="left"> </p> 
 
-<a href="https://twitter.com/Tbato_">
+<a href="https://twitter.com/MUnpopulur">
   <img align="left" alt="Shahab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/mahreen-athar-7666ma/">
   <img align="left" alt="Shahab's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MahreenAthar">
+<a href="https://github.com/ShahabAthar25">
   <img align="left" alt="Shahab's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
