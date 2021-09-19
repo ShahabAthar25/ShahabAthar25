@@ -28,7 +28,7 @@ I am a student in 8th class.I am a FullStack Developer, GUI Developer.I have wor
 <br />
 
 ### Most Used Language
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabAthar25&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabAthar25&langs_count=8)](https://github.com/ShahabAthar25)
   
   
 <div align = 'center'>
